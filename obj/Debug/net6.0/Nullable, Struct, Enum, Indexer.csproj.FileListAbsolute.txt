@@ -1,0 +1,4 @@
+C:\Users\Mirdavud\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirdavud\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.AssemblyInfoInputs.cache
+C:\Users\Mirdavud\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.AssemblyInfo.cs
+C:\Users\Mirdavud\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.csproj.CoreCompileInputs.cache
